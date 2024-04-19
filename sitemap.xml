@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://www.elphy.club/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        <title>The Adventure of Elphy</title>
+    </url>
+    <url>
+        <loc>https://www.elphy.club/#whyElphy</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        <title>Why Elphy?</title>
+    </url>
+    <url>
+        <loc>https://www.elphy.club/#tokenomics</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        <title>Tokenomics of Elphy</title>
+    </url>
+    <url>
+        <loc>https://www.elphy.club/#howtoget</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        <title>How To Buy Elphy?</title>
+    </url>
+    <url>
+        <loc>https://www.elphy.club/#roadmap</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        <title>Elphy Roadmap</title>
+    </url>
+</urlset>
